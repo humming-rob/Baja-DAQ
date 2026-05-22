@@ -2,13 +2,18 @@
 A DIY Data Acquisition system, designed for SAE collegiate competition teams and hobbyists. Assemble yourself. Off the shelf parts. open source.
 
 Initial Version:
--Strain gages or load cells and DCV 0-5V
--80 Samples/Second average
--through-hole soldering for everything for ease of assembly (except for completion resistors, due to cost)
--COTS breakout boards
--USB or external power supply
--SD card up to 32GB
--arduino R4 minima backbone
+-ELECTRICAL
+--Strain gages or load cells and DCV 0-5V
+--through-hole soldering for everything for ease of assembly (except for completion resistors, due to cost)
+--COTS breakout boards
+--Internal battery sufficient for 4 hours run time
+--arduino uno R4 backbone
+-DATA AND SOFTWARE
+--SD card up to 32GB
+--80 Samples/Second average
+-MECHANICAL
+--3D printed housing
+--IP54 rating - Adequate to drive a BAJA car through splashing water and mud without concern.
 
 Future Versions(ideas):
 -Architecture
